@@ -1,0 +1,54 @@
+#include<vector>
+#include <iostream>
+using namespace std;
+int main()
+//{
+//	vector<int> num{ 1,2,3,1,2 };
+//	if (num[0] == 1) cout << "1 element is 1";
+//	if (num[1] == 1) cout << "2 element is 1";
+//	if (num[2] == 1) cout << "3 element is 1";
+//	if (num[3] == 1) cout << "4 element is 1";
+//	if (num[4] == 1) cout << "5 element is 1";
+//	if (num[0] == 1) cout << "1 element is 4";
+//	if (num[1] == 1) cout << "2 element is 4";
+//	if (num[2] == 1) cout << "3 element is 4";
+//	if (num[3] == 1) cout << "4 element is 4";
+//	if (num[4] == 1) cout << "5 element is 5";
+//}
+
+{/*
+	vector <string> country{ "USA", "UK", "China", "Canada", "Australia" };
+	vector <string> code{ "+1", "+44", "+86", "+91", "+1", "+61" };
+	string num, cod;
+	cout << "Enter your phone code: " << endl;
+	cin >> cod;
+	if (code[0] == cod) cout << country[0] << endl;
+	if (code[1] == cod) cout << country[1] << endl;
+	if (code[2] == cod) cout << country[2] << endl;
+	if (code[3] == cod) cout << country[3] << endl;
+	if (code[4] == cod) cout << country[4] << endl;
+	if (code[5] == cod) cout << country[5] << endl;
+	else cout << "Incorrect code" << endl;
+	cout << "Enter your phone number: " << endl;
+	cin >> num;
+	cout << code[0] + num << endl;
+}*/
+
+//{
+// vector name{ "Mihails", "Olivers", "Vlads", "Artemijs" };
+// vector mark{ 3, 8, 7, 4 };
+// int num;
+// cout << "Enter your mark: " << endl;
+// cin >> num;
+// if (num == mark[0]) cout << name[0] << endl;
+// if (num == mark[1]) cout << name[1] << endl;
+// if (num == mark[2]) cout << name[2] << endl;
+// if (num == mark[3]) cout << name[3] << endl;
+// else cout << "No data" << endl;
+//}
+//
+//{
+// vector num{ 2, 3, 5, 7, 9 };
+// cout << (num[0] num[0]) << endl << num[1] num[1] << endl << num[2] num[2] << endl << num[3] num[3] << endl << num[4] * num[4] << endl;
+//}
+
